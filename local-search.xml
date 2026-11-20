@@ -3,5 +3,18 @@
   
   
   
+  <entry>
+    <title>Hello World</title>
+    <link href="/2026/11/20/hello-world/"/>
+    <url>/2026/11/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>博客已经搭建完成，首页会显示这篇文章。</p><blockquote><p><strong>为什么要留一篇？</strong> Hexo 在 0 篇文章时不会生成首页（会返回 404），所以至少要保留一篇。<br>等你写好自己的文章后，把这篇的标题和正文改掉就行，或者直接删掉这篇时确保还有别的文章。</p></blockquote><p>现在可以去管理台点「+ 新建文章」或拖 .txt 进来开始写了。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
   
 </search>
